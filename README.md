@@ -6,7 +6,7 @@ CLI and Shell for [CreditDB](https://github.com/creditdb), a fast and efficient 
 ## Installation
 
 ```sh
-go install https://github.com/creditdb/creditsh@latest
+go install github.com/creditdb/creditsh@latest
 ```
 ## Commands
 
